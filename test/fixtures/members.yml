@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  seq: 1
+  name: amada
+  age: 20
+  sex: M
+
+two:
+  seq: 2
+  name: tanaka
+  age: 25
+  sex: F
